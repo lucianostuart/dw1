@@ -4,6 +4,6 @@ Trabalho desenvolvido na matéria de desenvolvimento web 1
 
 Integrantes: 
 
-Lucas Alves
-Luciano Stuart
-Shyji Miyasato
+* Lucas Alves
+* Luciano Stuart
+* Shyji Miyasato
