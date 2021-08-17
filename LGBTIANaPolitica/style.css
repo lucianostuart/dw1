@@ -1,0 +1,57 @@
+body {
+	background-color: black;
+}
+
+.rgb{
+    display:inline;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,blueviolet,violet); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2{
+	height: 29px;
+}
+
+#banner {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 1.50),rgba(0, 0, 0, 0.500), rgba(0, 0, 0, 0.250)), url(banner.jpg);
+	height: 23vh;
+	padding: 5%;
+	text-align: center;
+}
+
+.content{
+	font-size: large;
+	position: relative;
+	bottom: 180px;
+	left: 250px;
+	margin-left: 25vh;
+	padding: 30px;
+}
+
+
+.center {
+	text-align: center
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+	font-size: large;
+}
+
+.member {
+	font-style: italic
+}
+
+#imgGrupo{
+	position: absolute;
+	right: 0;
+}
+
+#bottom {
+	position: absolute;
+	bottom: 0;
+}
